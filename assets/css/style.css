@@ -150,3 +150,12 @@ h5 {
     justify-content: space-between;
     align-items: center;
 }
+
+.registrati{
+    height: 30px;
+    width: 72px;
+    color: white;
+    background-color: #8EA1E1;
+    border-radius: 15px;
+    border: 0px;
+}
