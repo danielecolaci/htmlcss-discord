@@ -46,12 +46,16 @@ h5 {
     font-size: 12px;
 }
 
-.accedi{
+.accesso{
     height: 30px;
-    width: 58px;
-    background-color: white;
     border-radius: 15px;
     border: 0px;
+    font-size: 12px;
+}
+
+.accedi{
+    width: 58px;
+    background-color: white;    
 }
 
 .flex-img {
@@ -152,10 +156,8 @@ h5 {
 }
 
 .registrati{
-    height: 30px;
     width: 72px;
     color: white;
     background-color: #8EA1E1;
-    border-radius: 15px;
-    border: 0px;
 }
+
