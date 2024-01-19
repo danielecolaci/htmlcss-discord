@@ -16,7 +16,6 @@
 .nav {
     height: 32px;
     width: 50px;
-    border: 1px solid black;
 }
 
 .uno,
@@ -37,10 +36,22 @@
     justify-content: flex-end;
 }
 
+.logo{
+    height: 28px;
+}
+
 h5 {
     color: white;
     font-weight: 400;
     font-size: 12px;
+}
+
+.accedi{
+    height: 30px;
+    width: 58px;
+    background-color: white;
+    border-radius: 15px;
+    border: 0px;
 }
 
 .flex-img {
@@ -86,10 +97,13 @@ h5 {
     border: 1px solid black;
 }
 
-.wave {
+.wave{
     height: 50px;
-    width: 100%;
-    fill: #F6F6F6;
+    background-image: url(../img/wave.svg);
+}
+
+.reverse{
+    transform: rotate(180deg);
 }
 
 .flex-gray2 {
