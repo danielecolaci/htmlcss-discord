@@ -125,8 +125,8 @@ h1 {
     align-items: center;
 }
 
-.white{
-width: 8%;
+.white {
+    width: 8%;
 }
 
 .img {
@@ -146,13 +146,13 @@ width: 8%;
     width: 100%;
 }
 
-h2{
+h2 {
     font-weight: bolder;
     font-size: 32px;
     padding-bottom: 16px;
 }
 
-.p-item{
+.p-item {
     font-size: 12px;
     line-height: 1.6;
 }
@@ -184,18 +184,18 @@ h2{
     align-content: space-around;
 }
 
-.star{
+.star {
     height: 20px;
     background-image: url(../img/stars.svg);
     background-repeat: no-repeat;
 }
 
-h3{
+h3 {
     font-size: 16px;
     padding-bottom: 20px;
 }
 
-.scarica{
+.scarica {
     color: white;
     background-color: #8EA1E1;
     border: none;
@@ -207,7 +207,6 @@ h3{
 .flex-foot1 {
     height: 400px;
     background-color: #23272A;
-    border-bottom: 1px solid black;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -223,6 +222,12 @@ h3{
     height: 340px;
     width: 12%;
     border: 1px solid black;
+
+}
+
+hr {
+    height: 1px;
+    border: 1px solid #48557D;
 }
 
 .flex-foot2 {
