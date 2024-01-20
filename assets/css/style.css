@@ -177,7 +177,31 @@ h2{
 .container {
     height: 916px;
     width: 72%;
-    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-around;
+}
+
+.star{
+    height: 20px;
+    background-image: url(../img/stars.svg);
+    background-repeat: no-repeat;
+}
+
+h3{
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+
+.scarica{
+    color: white;
+    background-color: #8EA1E1;
+    border: none;
+    height: 44px;
+    margin: 0 40%;
+    border-radius: 22px;
 }
 
 .flex-foot1 {
