@@ -218,11 +218,24 @@ h3 {
     border: 1px solid black;
 }
 
-.list {
+.flex-list {
     height: 340px;
     width: 12%;
-    border: 1px solid black;
 
+}
+
+li{
+    color: #8EA1E1;
+    font-weight: bold;
+    list-style: none;
+    font-size: 12px;
+    line-height: 2;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
 }
 
 hr {
