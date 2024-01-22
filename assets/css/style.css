@@ -215,16 +215,34 @@ h3 {
 .contact {
     height: 340px;
     width: 24%;
-    border: 1px solid black;
 }
+
+.contact h2 {
+    color: #8EA1E1;
+}
+
+.language img {
+    height: 20px;
+}
+
+.language span {
+    color: white;
+}
+
+.fa-brands {
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
 
 .flex-list {
     height: 340px;
     width: 12%;
-
 }
 
-li{
+li {
     color: #8EA1E1;
     font-weight: bold;
     list-style: none;
@@ -232,7 +250,7 @@ li{
     line-height: 2;
 }
 
-a{
+a {
     color: white;
     text-decoration: none;
     font-weight: 300;
